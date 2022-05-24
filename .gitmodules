@@ -1,0 +1,24 @@
+[submodule "biquad"]
+	path = biquad
+	url = https://github.com/tomlankhorst/biquad
+[submodule "Butterworth-Filter-Design"]
+	path = Butterworth-Filter-Design
+	url = https://github.com/ruohoruotsi/Butterworth-Filter-Design
+[submodule "BiquadFilter"]
+	path = BiquadFilter
+	url = https://github.com/imasuke/BiquadFilter
+[submodule "RBJFilter"]
+	path = RBJFilter
+	url = https://github.com/tmtakashi/BiquadFilter
+[submodule "Audio-Filters"]
+	path = Audio-Filters
+	url = https://github.com/shabtronic/Audio-Filters
+[submodule "Biquads"]
+	path = Biquads
+	url = https://github.com/StoneyDSP/Biquads
+[submodule "cascaded"]
+	path = cascaded
+	url = https://github.com/igorinov/biquad
+[submodule "biquad_design_tool"]
+	path = biquad_design_tool
+	url = https://github.com/dmgleichman/biquad_design_tool
